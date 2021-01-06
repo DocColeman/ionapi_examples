@@ -1,0 +1,6 @@
+.DS_Store
+*.pyc
+*.bak
+compass/venv/
+.vscode/
+*.ionapi
